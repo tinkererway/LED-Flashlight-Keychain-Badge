@@ -1,0 +1,9 @@
+Source:	C:/Users/amalm/Desktop/LED Flashlight/LED Flashlight Keychain Badge v01/LED Flashlight Keychain Badge v01.sch
+Date:	03/01/20 11:10:42
+Tool:	Eeschema 4.0.7
+Component Count:	4
+Ref	Value	Part	Footprint	Description	Vendor
+BT1	Battery_Cell - CR2032	device:Battery_Cell	digikey-footprints:Battery_Holder_Coin_2032_BS-7	single battery cell	
+D1	LED	device:LED	digikey-footprints:LED_5mm_Radial	LED generic	
+R1	10	device:R	Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal	Resistor	
+SW1	SW_Push	switches:SW_Push	Buttons_Switches_THT:SW_PUSH_6mm	Push button switch, generic, two pins	

@@ -1,0 +1,35 @@
+Cmp-Mod V01 Created by PcbNew   date = 03/01/20 12:02:43
+
+BeginCmp
+TimeStamp = 5E5B5615
+Path = /5E5B4A54
+Reference = BT1;
+ValeurCmp = Battery_Cell - CR2032;
+IdModule  = digikey-footprints:Battery_Holder_Coin_2032_BS-7;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E5B561B
+Path = /5E5B4995
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = digikey-footprints:LED_5mm_Radial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E5B5621
+Path = /5E5B49F3
+Reference = R1;
+ValeurCmp = 10;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E5B5629
+Path = /5E5B4AB9
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Buttons_Switches_THT:SW_PUSH_6mm;
+EndCmp
+
+EndListe
